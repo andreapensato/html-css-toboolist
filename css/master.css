@@ -1,0 +1,54 @@
+body {
+  /*background-color: red;*/
+}
+
+
+.btn-blue {
+  font-size: 15px;
+  background-color: lightblue;
+}
+
+.tag-task {
+  border-radius:5px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.tag-blue {
+  background-color: lightblue;
+}
+
+.tag-orange {
+  background-color: orange;
+}
+
+.tag-list li {
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+
+.title{
+  display: inline-block;
+}
+
+.sfondo-grigio{
+  background-color:lightgray;
+}
+
+.tag-bianco{
+  background-color:white;
+}
+
+.tag-violet{
+  background-color: violet;
+}
+
+
+.tag-red{
+  background-color: red;
+}
+
+
+.tag-green{
+  background-color: green;
+}
